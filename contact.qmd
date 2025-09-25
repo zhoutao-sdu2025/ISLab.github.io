@@ -11,7 +11,7 @@ editor:
     School of Control Science and Engineering, Shandong University
     No. 17923, Jingshi Road, Qianfoshan Campus, Lixia District, Jinan P. R. China 250061
 
-    山东大学千佛山校区北院创新大厦二期5楼 -- , 中国济南 250061
+    山东大学千佛山校区北院创新大厦二期5楼 -- 视觉感知与智能系统实验室, 中国济南 250061
 
     Email: zhangjinglin at sdu.edu.cn
 

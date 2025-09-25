@@ -125,7 +125,7 @@ Undergraduate students majoring in **computer science**, **electronic informatio
 ## <strong>Postdoctoral Opportunities</strong>
 
 Our research group recruits **two postdoctoral researchers each year**. I welcome candidates whose interests align with (but are not limited to):
-- <span class="highlight-blue">GArtificial general intelligence</span>
+- <span class="highlight-blue">Artificial general intelligence</span>
 - <span class="highlight-purple">Remote Sensing Image Processing</span>
 - <span class="highlight-teal">Embodied Intelligence</span>
 
