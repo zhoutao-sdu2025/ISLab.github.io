@@ -5,7 +5,7 @@ project:
 website:
   page-navigation: true
   title: "Jinglin Zhang"
-  site-url: https://github.com/zhoutao-bjd/Zhangjinglin
+  site-url: https://Zhangjinglin
   favicon: images/shandong.jpeg
   repo-url: https://github.com/zhoutao-bjd/Zhangjinglin
   repo-actions: [edit, issue]
