@@ -1,11 +1,5 @@
----
-title: "Publications"
-editor: visual
----
-
+::: {#center}
 <!-- 自定义样式 -->
-
-```{=html}
 <style>
 /* 容器设置 */
 #center {
@@ -28,9 +22,7 @@ editor: visual
 }
 
 </style>
-```
 
-::: {#center}
 ## 期刊论文
 
 1.  Wang Jiashu, Song Jinze, Zhang Hao, Zhang Zekai, Ji Yunlong, Zhang, Wenyin, **Zhang Jinglin** and Wang Xing, SPMNet: A Siamese Pyramid Mamba Network for Very-High-Resolution Remote Sensing Change Detection, **IEEE Transactions on Geoscience and Remote Sensing**, 2025, [-Link-](DOI:10.1109/TGRS.2025.3565801). （中科院一区，IF:5.855）
@@ -73,4 +65,5 @@ editor: visual
 38. Yuanjiang Li, Yunfeng Chen, Kai Zhu, Cong Bai and **Jinglin Zhang**, An Effective Federated Learning Verification Strategy and Its Applications for Fault Diagnosis in Industrial IoT Systems, Pages:16835-16849, 9(18), 2022, **IEEE IoT Journal**, [-Link-](DOI:%2010.1109/JIOT.2022.3153343).（中科院一区，IF:9.936）
 39. Minmin Miao, Wenjun Hu, Baoguo Xu, **Jinglin Zhang**, Joel J. P. C. Rodrigues and Victor Hugo C. de Albuquerque, Automated CCA-MWF algorithm for unsupervised identification and removal of EOG artifacts from EEG, **Journal of Biomedical and Health Informatics**, Pages: 3607-3617, 26(8), 2022, [-Link-](DOI:10.1109/JBHI.2021.3131186).（中科院一区，IF:5.223）
 40. 更多论文请查看中文简介
+
 :::

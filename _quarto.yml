@@ -7,21 +7,15 @@ website:
   title: "Jinglin Zhang"
   site-url: https://Zhangjinglin.github.io
   favicon: images/shandong.jpeg
-  repo-url: https://github.com/zhoutao-bjd/Zhangjinglin.github.io
-  repo-actions: [edit, issue]
-  
-  page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
-    
+  repo-url: https://github.com/zhoutao-sdu2025/Zhangjinglin.github.io
   navbar: 
     background: "#A9CCE3"
     search: true
     right: 
       - text: "Home"
         href: index.qmd
+      - text: "Group"
+        href: Group.qmd 
       - text: "Publications"
         href: publications.qmd
       - text: "Projects"
